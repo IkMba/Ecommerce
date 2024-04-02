@@ -1,8 +1,13 @@
-# React + Vite
+# Glow Ecoomerce site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An Ecommerce site for glow,a self-care company. bulit with HTML,CSS and React.
 
-Currently, two official plugins are available:
+# Screenshots
+![glow1](https://github.com/IkMba/Ecommerce/assets/70646812/1530f9ab-f28a-4743-8529-76544f7f2c4f)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![glow2](https://github.com/IkMba/Ecommerce/assets/70646812/bdac60a6-b892-47be-bfe5-de598d8b9793)
+
+![glow3](https://github.com/IkMba/Ecommerce/assets/70646812/a4e03f67-643b-4c41-b66c-3b36e9a18ef8)
+
+Status: unfinished, currently in production.
+
